@@ -1,0 +1,108 @@
+project:
+  type: book
+  output-dir: _book
+  resources:
+    - "assets/toys/**"
+    - "assets/diagrams/**"
+
+book:
+  title: "叙事构造"
+  subtitle: "定义现实，识别剧本，塑造行动"
+  author: "Lin Mi"
+  date: today
+  description: "定义现实，识别剧本，塑造行动：系统掌握十三个核心叙事容器、定义生成与外部叙事审查。"
+  cover-image: assets/cover.svg
+  favicon: assets/favicon.svg
+  sidebar:
+    style: docked
+    search: true
+    collapse-level: 2
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - part: "导论"
+      chapters:
+        - chapter-01-not-living-in-facts.qmd
+        - chapter-02-naming-and-interpretive-power.qmd
+        - chapter-03-definitions-carry-scripts.qmd
+    - part: "第一部分 叙事构造的基础框架"
+      chapters:
+        - chapter-04-what-is-narrative-construction.qmd
+        - chapter-05-factual-and-narrative-forms.qmd
+        - chapter-06-containers-definitions-and-scripts.qmd
+        - chapter-07-thirteen-core-containers.qmd
+        - chapter-08-relations-between-containers.qmd
+        - chapter-09-definition-quality-and-essence.qmd
+    - part: "第二部分 如何掌握与生成定义"
+      chapters:
+        - chapter-10-definition-structure-and-mastery.qmd
+        - chapter-11-generating-new-definitions.qmd
+    - part: "第三部分 核心叙事定义体系"
+      chapters:
+        - chapter-12-subject-definition.qmd
+        - chapter-13-time-definition.qmd
+        - chapter-14-situation-definition.qmd
+        - chapter-15-action-definition.qmd
+        - chapter-16-outcome-definition.qmd
+        - chapter-17-cause-definition.qmd
+        - chapter-18-motive-definition.qmd
+        - chapter-19-intention-definition.qmd
+        - chapter-20-goal-definition.qmd
+        - chapter-21-responsibility-definition.qmd
+        - chapter-22-value-definition.qmd
+        - chapter-23-meaning-definition.qmd
+        - chapter-24-direction-definition.qmd
+    - part: "第四部分 在现实中使用叙事构造"
+      chapters:
+        - chapter-25-building-narrative-from-scratch.qmd
+        - chapter-26-defining-yourself.qmd
+        - chapter-27-defining-relationships.qmd
+        - chapter-28-defining-personal-experience.qmd
+        - chapter-29-defining-shared-experience.qmd
+        - chapter-30-identifying-others-narratives.qmd
+        - chapter-31-contesting-naming-and-interpretive-power.qmd
+        - chapter-32-reality-check-for-definitions.qmd
+        - chapter-33-building-a-discourse-system.qmd
+    - chapter-34-conclusion-becoming-a-definer.qmd
+    - summary.qmd
+    - references.qmd
+  appendices:
+    - appendix-a-container-reference.qmd
+    - appendix-b-definition-index.qmd
+    - appendix-c-definition-comparison.qmd
+    - appendix-d-definition-script-mapping.qmd
+    - appendix-e-definition-generation-template.qmd
+    - appendix-f-personal-nc-template.qmd
+    - appendix-g-community-nc-template.qmd
+    - appendix-h-narrative-audit-template.qmd
+  search: true
+  page-navigation: true
+  reader-mode: true
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css:
+      - assets/custom.css
+      - assets/toys.css
+    include-after-body: assets/toys-loader.html
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-copy: true
+    code-overflow: wrap
+    smooth-scroll: true
+    anchor-sections: true
+    fig-cap-location: bottom
+    tbl-cap-location: top
+  pdf:
+    documentclass: scrreprt
+    toc: true
+    number-sections: true
+    colorlinks: true
+
+editor: visual

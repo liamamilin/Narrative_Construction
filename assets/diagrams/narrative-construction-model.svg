@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" width="960" height="300" role="img" aria-label="叙事构造核心链路：事实形态到行动剧本">
+  <rect width="960" height="300" rx="14" fill="#ffffff"/>
+  <text x="480" y="34" text-anchor="middle" fill="#0f172a" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="19" font-weight="700">叙事构造核心模型：事实形态 → 容器 → 定义 → 剧本 → 行动</text>
+  <defs>
+    <marker id="anc1" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#d97706"/>
+    </marker>
+  </defs>
+  <rect x="24" y="76" width="166" height="154" rx="12" fill="#f8fafc" stroke="#64748b" stroke-width="1.8"/>
+  <text x="107" y="108" text-anchor="middle" fill="#334155" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="13.5" font-weight="700">1. 事实形态</text>
+  <text x="107" y="138" text-anchor="middle" fill="#475569" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="11.5">原始事件与可观察痕迹</text>
+  <text x="107" y="164" text-anchor="middle" fill="#64748b" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="11">无自动意义、无现成剧本</text>
+
+  <line x1="190" y1="153" x2="212" y2="153" stroke="#d97706" stroke-width="2" marker-end="url(#anc1)"/>
+
+  <rect x="218" y="76" width="166" height="154" rx="12" fill="#f0f9ff" stroke="#0284c7" stroke-width="1.8"/>
+  <text x="301" y="108" text-anchor="middle" fill="#0369a1" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="13.5" font-weight="700">2. 叙事容器</text>
+  <text x="301" y="138" text-anchor="middle" fill="#475569" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="11.5">13 个固定结构槽位</text>
+  <text x="301" y="164" text-anchor="middle" fill="#64748b" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="11">主体/时间/处境/责任/方向</text>
+
+  <line x1="384" y1="153" x2="406" y2="153" stroke="#d97706" stroke-width="2" marker-end="url(#anc1)"/>
+
+  <rect x="412" y="76" width="166" height="154" rx="12" fill="#fffbeb" stroke="#d97706" stroke-width="2.2"/>
+  <text x="495" y="108" text-anchor="middle" fill="#b45309" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="13.5" font-weight="700">3. 核心定义 ★</text>
+  <text x="495" y="138" text-anchor="middle" fill="#475569" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="11.5">给槽位写入具体命名</text>
+  <text x="495" y="164" text-anchor="middle" fill="#b45309" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="11" font-weight="600">争夺命名权与解释权</text>
+
+  <line x1="578" y1="153" x2="600" y2="153" stroke="#d97706" stroke-width="2" marker-end="url(#anc1)"/>
+
+  <rect x="606" y="76" width="166" height="154" rx="12" fill="#f5f3ff" stroke="#7c3aed" stroke-width="1.8"/>
+  <text x="689" y="108" text-anchor="middle" fill="#6d28d9" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="13.5" font-weight="700">4. 携带剧本</text>
+  <text x="689" y="138" text-anchor="middle" fill="#475569" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="11.5">默认情绪、角色与选项</text>
+  <text x="689" y="164" text-anchor="middle" fill="#64748b" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="11">决定“接下来该怎么演”</text>
+
+  <line x1="772" y1="153" x2="794" y2="153" stroke="#d97706" stroke-width="2" marker-end="url(#anc1)"/>
+
+  <rect x="800" y="76" width="136" height="154" rx="12" fill="#ecfdf5" stroke="#059669" stroke-width="1.8"/>
+  <text x="868" y="108" text-anchor="middle" fill="#047857" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="13.5" font-weight="700">5. 现实行动</text>
+  <text x="868" y="138" text-anchor="middle" fill="#475569" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="11.5">产生新事实</text>
+  <text x="868" y="164" text-anchor="middle" fill="#047857" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="11" font-weight="600">回流现实检验</text>
+
+  <rect x="24" y="250" width="912" height="32" rx="8" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="480" y="271" text-anchor="middle" fill="#334155" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="12" font-weight="600">核心命题：改变一个容器的定义，就会改写整条行动剧本，从而改变人走向的现实结果</text>
+</svg>

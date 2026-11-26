@@ -1,0 +1,18 @@
+<script src="assets/toys/core.js"></script>
+<script src="assets/toys/part1.js"></script>
+<script src="assets/toys/part2_3.js"></script>
+<script src="assets/toys/part4.js"></script>
+<script>
+  (function () {
+    function boot() {
+      if (window.NarrativeToys && typeof window.NarrativeToys.mountAll === 'function') {
+        window.NarrativeToys.mountAll(document);
+      }
+    }
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', boot);
+    } else {
+      boot();
+    }
+  })();
+</script>

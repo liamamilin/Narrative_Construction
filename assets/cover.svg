@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1120" width="800" height="1120" role="img" aria-label="叙事构造：定义现实，识别剧本，塑造行动 封面">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111318"/>
+      <stop offset="52%" stop-color="#1c1917"/>
+      <stop offset="100%" stop-color="#292524"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="55%" r="44%">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.22"/>
+      <stop offset="65%" stop-color="#e11d48" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#111318" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="50%" stop-color="#fb7185"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="1120" fill="url(#bg)"/>
+  <rect width="800" height="1120" fill="url(#halo)"/>
+
+  <g stroke="#44403c" stroke-opacity="0.32" stroke-width="1">
+    <line x1="76" y1="0" x2="76" y2="1120"/>
+    <line x1="724" y1="0" x2="724" y2="1120"/>
+    <line x1="0" y1="92" x2="800" y2="92"/>
+    <line x1="0" y1="1028" x2="800" y2="1028"/>
+  </g>
+
+  <text x="76" y="70" fill="#a8a29e" font-family="-apple-system, BlinkMacSystemFont, 'Inter', sans-serif" font-size="15" font-weight="600" letter-spacing="3">NARRATIVE CONSTRUCTION · CONTAINERS, DEFINITIONS &amp; SCRIPTS</text>
+  <rect x="76" y="92" width="180" height="3.5" rx="1.75" fill="url(#accent)"/>
+
+  <text x="76" y="198" fill="#fafaf9" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="80" font-weight="800">叙事构造</text>
+  <text x="76" y="256" fill="#d6d3d1" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', sans-serif" font-size="25" font-weight="500">定义现实，识别剧本，塑造行动</text>
+  <text x="76" y="294" fill="#fbbf24" font-family="-apple-system, BlinkMacSystemFont, 'Inter', sans-serif" font-size="16" font-weight="600">Fact Form → Narrative Form → 13 Core Containers → Definition → Action Script</text>
+
+  <!-- 4 Architecture Cards -->
+  <g transform="translate(76, 356)">
+    <rect x="0" y="0" width="648" height="110" rx="14" fill="#1c1917" fill-opacity="0.88" stroke="#f59e0b" stroke-width="2"/>
+    <text x="26" y="38" fill="#fbbf24" font-family="-apple-system, sans-serif" font-size="13.5" font-weight="700" letter-spacing="1.2">INTRO &amp; PART 1 · 基础框架</text>
+    <text x="622" y="38" text-anchor="end" fill="#fde68a" font-family="monospace" font-size="14" font-weight="700">Ch 01–09</text>
+    <text x="26" y="78" fill="#fafaf9" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="21" font-weight="700">命名权与解释权 · 事实形态与叙事形态 · 十三容器</text>
+
+    <line x1="324" y1="110" x2="324" y2="140" stroke="#fb7185" stroke-width="2.5" stroke-dasharray="4 4"/>
+
+    <rect x="0" y="140" width="648" height="110" rx="14" fill="#1c1917" fill-opacity="0.88" stroke="#fb7185" stroke-width="2"/>
+    <text x="26" y="178" fill="#fda4af" font-family="-apple-system, sans-serif" font-size="13.5" font-weight="700" letter-spacing="1.2">PART 2 · 掌握与生成定义</text>
+    <text x="622" y="178" text-anchor="end" fill="#fecdd3" font-family="monospace" font-size="14" font-weight="700">Ch 10–11</text>
+    <text x="26" y="218" fill="#fafaf9" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="21" font-weight="700">定义结构拆解 · 质量判准 · 新情境定义生成术</text>
+
+    <line x1="324" y1="250" x2="324" y2="280" stroke="#38bdf8" stroke-width="2.5" stroke-dasharray="4 4"/>
+
+    <rect x="0" y="280" width="648" height="110" rx="14" fill="#1c1917" fill-opacity="0.88" stroke="#38bdf8" stroke-width="2"/>
+    <text x="26" y="318" fill="#38bdf8" font-family="-apple-system, sans-serif" font-size="13.5" font-weight="700" letter-spacing="1.2">PART 3 · 十三个核心叙事定义体系</text>
+    <text x="622" y="318" text-anchor="end" fill="#bae6fd" font-family="monospace" font-size="14" font-weight="700">Ch 12–24</text>
+    <text x="26" y="358" fill="#fafaf9" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="21" font-weight="700">主体 · 时间 · 处境 · 行为 · 结果 · 因果 · 责任 · 价值</text>
+
+    <line x1="324" y1="390" x2="324" y2="420" stroke="#2dd4bf" stroke-width="2.5" stroke-dasharray="4 4"/>
+
+    <rect x="0" y="420" width="648" height="110" rx="14" fill="#1c1917" fill-opacity="0.88" stroke="#2dd4bf" stroke-width="2"/>
+    <text x="26" y="458" fill="#2dd4bf" font-family="-apple-system, sans-serif" font-size="13.5" font-weight="700" letter-spacing="1.2">PART 4 · 现实应用与话语体系</text>
+    <text x="622" y="458" text-anchor="end" fill="#99f6e4" font-family="monospace" font-size="14" font-weight="700">Ch 25–34</text>
+    <text x="26" y="498" fill="#fafaf9" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="21" font-weight="700">定义自我与关系 · 审查外部叙事 · 现实检验 · 成为定义者</text>
+  </g>
+
+  <text x="76" y="988" fill="#a8a29e" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="18">“人并不直接生活在事实中，而是生活在已被命名的叙事结构里。”</text>
+  <text x="76" y="1068" fill="#fafaf9" font-family="-apple-system, BlinkMacSystemFont, 'Inter', sans-serif" font-size="22" font-weight="700">LIN MI</text>
+  <text x="724" y="1068" text-anchor="end" fill="#78716c" font-family="-apple-system, sans-serif" font-size="15" font-weight="600">68 INTERACTIVE NARRATIVE LABS</text>
+</svg>

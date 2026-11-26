@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+.Rhistory
+.RData
+.Rproj.user/
+.idea/
+.vscode/
+.quarto/
+_book/
+_freeze/
+*.log
+__pycache__/
+*.pyc

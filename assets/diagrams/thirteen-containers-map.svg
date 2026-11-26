@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 310" width="960" height="310" role="img" aria-label="十三个核心叙事容器四维全景图">
+  <rect width="960" height="310" rx="14" fill="#ffffff"/>
+  <text x="480" y="34" text-anchor="middle" fill="#0f172a" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="19" font-weight="700">十三个核心叙事容器全景（Thirteen Core Containers · Ch 12–24）</text>
+
+  <g font-family="-apple-system, 'PingFang SC', sans-serif">
+    <rect x="24" y="62" width="218" height="196" rx="12" fill="#f0f9ff" stroke="#0284c7" stroke-width="1.8"/>
+    <text x="40" y="90" fill="#0369a1" font-size="13" font-weight="700">坐标层（谁 · 何时 · 何境）</text>
+    <text x="40" y="122" fill="#1e293b" font-size="12.5" font-weight="600">• Ch 12 主体（Subject）</text>
+    <text x="40" y="152" fill="#1e293b" font-size="12.5" font-weight="600">• Ch 13 时间（Time）</text>
+    <text x="40" y="182" fill="#1e293b" font-size="12.5" font-weight="600">• Ch 14 处境（Situation）</text>
+    <text x="40" y="236" fill="#0369a1" font-size="11.5">界定“故事在哪里发生”</text>
+
+    <rect x="256" y="62" width="218" height="196" rx="12" fill="#f0fdfa" stroke="#0d9488" stroke-width="1.8"/>
+    <text x="272" y="90" fill="#0f766e" font-size="13" font-weight="700">因果层（做 · 果 · 因）</text>
+    <text x="272" y="122" fill="#1e293b" font-size="12.5" font-weight="600">• Ch 15 行为（Action）</text>
+    <text x="272" y="152" fill="#1e293b" font-size="12.5" font-weight="600">• Ch 16 结果（Outcome）</text>
+    <text x="272" y="182" fill="#1e293b" font-size="12.5" font-weight="600">• Ch 17 原因（Cause）</text>
+    <text x="272" y="236" fill="#0f766e" font-size="11.5">界定“事情如何演进”</text>
+
+    <rect x="488" y="62" width="218" height="196" rx="12" fill="#f5f3ff" stroke="#7c3aed" stroke-width="1.8"/>
+    <text x="504" y="90" fill="#6d28d9" font-size="13" font-weight="700">驱动层（为何与担当）</text>
+    <text x="504" y="118" fill="#1e293b" font-size="12.5" font-weight="600">• Ch 18 动机（Motive）</text>
+    <text x="504" y="144" fill="#1e293b" font-size="12.5" font-weight="600">• Ch 19 意图（Intention）</text>
+    <text x="504" y="170" fill="#1e293b" font-size="12.5" font-weight="600">• Ch 20 目标（Goal）</text>
+    <text x="504" y="196" fill="#1e293b" font-size="12.5" font-weight="600">• Ch 21 责任（Responsibility）</text>
+    <text x="504" y="236" fill="#6d28d9" font-size="11.5">界定“谁为何而动、谁来担责”</text>
+
+    <rect x="720" y="62" width="216" height="196" rx="12" fill="#fffbeb" stroke="#d97706" stroke-width="1.8"/>
+    <text x="736" y="90" fill="#b45309" font-size="13" font-weight="700">导航层（判准与去向）</text>
+    <text x="736" y="122" fill="#1e293b" font-size="12.5" font-weight="600">• Ch 22 价值（Value）</text>
+    <text x="736" y="152" fill="#1e293b" font-size="12.5" font-weight="600">• Ch 23 意义（Meaning）</text>
+    <text x="736" y="182" fill="#1e293b" font-size="12.5" font-weight="600">• Ch 24 方向（Direction）</text>
+    <text x="736" y="236" fill="#b45309" font-size="11.5">界定“值不值得、往哪走”</text>
+  </g>
+
+  <rect x="24" y="270" width="912" height="28" rx="8" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="480" y="289" text-anchor="middle" fill="#334155" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="11.5" font-weight="600">十三个容器彼此联动：改写“处境”或“原因”，会连锁改写“责任”与“方向”的默认剧本</text>
+</svg>

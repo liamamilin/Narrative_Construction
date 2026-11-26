@@ -1,0 +1,44 @@
+/* ==========================================================================
+   叙事构造 (Narrative Construction) — Editorial Typography & Theme Stylesheet
+   ========================================================================== */
+:root {
+  --nc-accent: #d97706;
+  --nc-teal: #0d9488;
+  --nc-border: #e2e8f0;
+  --nc-text: #1e293b;
+  --nc-muted: #475569;
+  --nc-quote-bg: #fffbeb;
+  --nc-table-head: #f8fafc;
+  --nc-table-stripe: #f8fafc;
+  --nc-shadow: 0 4px 16px rgba(15, 23, 42, 0.06);
+}
+body.quarto-dark {
+  --nc-accent: #fbbf24;
+  --nc-teal: #2dd4bf;
+  --nc-border: #334155;
+  --nc-text: #e2e8f0;
+  --nc-muted: #94a3b8;
+  --nc-quote-bg: rgba(30, 41, 59, 0.72);
+  --nc-table-head: #1e293b;
+  --nc-table-stripe: rgba(30, 41, 59, 0.45);
+  --nc-shadow: 0 6px 22px rgba(0, 0, 0, 0.34);
+}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Inter", "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", sans-serif;
+  line-height: 1.78;
+  -webkit-font-smoothing: antialiased;
+}
+main.content { max-width: 820px; }
+main.content h2 { margin-top: 2.2rem; margin-bottom: 0.85rem; padding-bottom: 0.4rem; border-bottom: 1.5px solid var(--nc-border); font-weight: 700; }
+main.content h3 { margin-top: 1.6rem; margin-bottom: 0.55rem; color: var(--nc-accent); font-weight: 700; }
+blockquote { margin: 1.25rem 0; padding: 0.9rem 1.2rem; border-left: 4px solid var(--nc-accent); background: var(--nc-quote-bg); border-radius: 0 8px 8px 0; }
+table { width: 100%; border-collapse: separate; border-spacing: 0; margin: 1.2rem 0 1.4rem; border: 1px solid var(--nc-border); border-radius: 10px; overflow: hidden; font-size: 0.92rem; }
+table thead th { background: var(--nc-table-head); font-weight: 650; text-align: left; padding: 0.65rem 0.85rem; border-bottom: 1.5px solid var(--nc-border); }
+table tbody td { padding: 0.58rem 0.85rem; border-bottom: 1px solid var(--nc-border); vertical-align: top; }
+table tbody tr:last-child td { border-bottom: none; }
+table tbody tr:nth-child(even) { background: var(--nc-table-stripe); }
+img[src*="assets/diagrams/"], .quarto-figure img[src*="assets/diagrams/"] {
+  display: block; width: 100%; height: auto; margin: 1.25rem auto; border-radius: 12px;
+  border: 1px solid var(--nc-border); box-shadow: var(--nc-shadow); background: #ffffff;
+}
+.quarto-cover-image { border-radius: 14px; box-shadow: 0 14px 36px rgba(15, 23, 42, 0.24); }

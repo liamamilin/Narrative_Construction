@@ -1,0 +1,10 @@
+# References & Theoretical Lineage {.unnumbered}
+
+本书的“事实形态—叙事形态—容器—定义—剧本”体系虽然立足于日常现实与行动实践，但在思想脉络上与社会建构、框架分析、言语行为及叙事心理学一脉相承：
+
+- **框架与现实建构**：经验如何被框架组织 [@goffman1974frame] 与社会现实的符号建构 [@berger1966social; @searle1995construction]。
+- **语言即行动与隐喻**：命名与定义天然携带行动剧本的言语行为理论 [@austin1962words] 与概念隐喻研究 [@lakoff1980metaphors]。
+- **叙事与意义生成**：人类如何借助叙事组织经验、意图与自我认同 [@bruner1990acts]。
+
+::: {#refs}
+:::
